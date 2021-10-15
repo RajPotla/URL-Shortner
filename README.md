@@ -24,7 +24,8 @@ Installation
 3. Upload the contents of the .zip file to your web server
 4. Update the database info in config.php
 5. Run the SQL included in shortenedurls.sql. Many people use phpMyAdmin for this, if you can’t do it yourself contact your host.
-6. If you want to use the caching option, create a directory named cache with permissions 777
+6. Rename rename.htaccess to .htaccess
+7. If you want to use the caching option, create a directory named cache with permissions 777
 
 Using your personal URL shortener service
 
